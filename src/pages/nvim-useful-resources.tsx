@@ -67,7 +67,7 @@ const NvimUsefulResources = () => {
                 <li className='flex gap-2'>
                     <a href='https://github.com/hrsh7th/nvim-cmp' target='_blank' className='underline text-[#395B64] font-bold'>nvim cmp</a>
                     <a href='https://github.com/hrsh7th/cmp-nvim-lsp' target='_blank' className='underline text-[#395B64] font-bold'>cmp nvim lsp</a>
-                    <span>(Для автокомплита и документации интерфейсов)</span>
+                    <span>(Для автокомплита)</span>
                 </li>
             </ul>
             <span className='text-xl'>Готовые Конфигурации</span>
